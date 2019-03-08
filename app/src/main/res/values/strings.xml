@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Score Keeper</string>
+    <string name="teama">Team A</string>
+    <string name="w">W</string>
+    <string name="wicket">0</string>
+    <string name="_1">+1</string>
+    <string name="two">+2</string>
+    <string name="_4">+4</string>
+    <string name="_0">0</string>
+    <string name="reset">Reset</string>
+</resources>
